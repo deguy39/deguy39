@@ -1,6 +1,15 @@
 ## Hi there 👋
+<h1 align="left">
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/ffb07d26-ca8f-4be6-9982-ef4048a0db66" />  
+
 
 <!--
+<h1 align="right"> Hello
+</h1> <h4 align="Right">
+    I'm Nathan! and  What do I do?
+</h4>
+
+
 **deguy39/deguy39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
